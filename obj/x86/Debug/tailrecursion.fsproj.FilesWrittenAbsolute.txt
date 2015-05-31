@@ -1,0 +1,5 @@
+/home/jacqueline/F-sharp/tailrecursion/tailrecursion/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacqueline/F-sharp/tailrecursion/tailrecursion/bin/Debug/tailrecursion.exe.mdb
+/home/jacqueline/F-sharp/tailrecursion/tailrecursion/bin/Debug/tailrecursion.exe
+/home/jacqueline/F-sharp/tailrecursion/tailrecursion/obj/x86/Debug/tailrecursion.exe
+/home/jacqueline/F-sharp/tailrecursion/tailrecursion/obj/x86/Debug/tailrecursion.exe.mdb
